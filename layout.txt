@@ -1,0 +1,11 @@
+A, Alderson, Card
+G, Green, Card
+M, Marquez, Card
+S, Stratton, Card
+B, Berthoud, Card
+C, Chauvenet, Card
+R, Brown, Card
+L, Library, Card
+H, Hill, Card
+K, Kafadar, Other
+W, Sidewalk, Other
